@@ -1,8 +1,8 @@
 class Xcsp < Formula
   desc "Unified launcher for XCSP3 solvers"
   homepage "https://github.com/CPToolset/xcsp-launcher"
-  url "https://github.com/CPToolset/xcsp-launcher/releases/download/v0.3.0/xcsp-0.3.0-macos.tar.gz"
-  sha256 "f994ab60789db9cac856e45cd04c826734e62e296e502c16a237208fe40cfa81"
+  url "https://github.com/CPToolset/xcsp-launcher/releases/download/v0.4.0/xcsp-0.4.0-macos.tar.gz"
+  sha256 "19fec4595d09617245bdcc4eae7a97e5a3c5490d03fcb46663b7d478309fbd8a"
   license "LGPL-3.0-or-later"
 
   def install
